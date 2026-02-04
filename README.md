@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0209-minimum-size-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
