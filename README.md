@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0053-maximum-subarray) |
+| [0643-maximum-average-subarray-i](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
