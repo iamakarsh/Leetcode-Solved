@@ -20,15 +20,14 @@ class Solution {
         return dfs(source, destination, adjList, vis);
     }
 
-    private boolean dfs(int node, int destination,
-                        ArrayList<ArrayList<Integer>> adj,
-                        boolean[] vis) {
+    public boolean dfs(int node, int destination,ArrayList<ArrayList<Integer>> adj,boolean[] vis) {
 
         if (node == destination) return true;
 
         vis[node] = true;
 
-        for (int neigh : adj.get(node)) {
+        for (int i = 0; i < adj.get(node).size(); i++) {
+            int neigh = adj.get(node).get(i);
             if (!vis[neigh]) {
                 if (dfs(neigh, destination, adj, vis)) {
                     return true;
