@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0053-maximum-subarray) |
+| [0130-surrounded-regions](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0130-surrounded-regions) |
 | [0209-minimum-size-subarray-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0643-maximum-average-subarray-i) |
@@ -95,22 +96,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
