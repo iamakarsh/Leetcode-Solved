@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0039-combination-sum) |
 | [0401-binary-watch](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0401-binary-watch) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
