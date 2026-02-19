@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-daily-leads-and-partners](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1873-calculate-special-bonus) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Queue
 |  |
 | ------- |
