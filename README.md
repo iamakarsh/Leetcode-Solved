@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0761-special-binary-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0067-add-binary) |
 | [0567-permutation-in-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0761-special-binary-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3713-longest-balanced-substring-i](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3713-longest-balanced-substring-i) |
 ## Hash Table
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0802-find-eventual-safe-states) |
+## Sorting
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->
