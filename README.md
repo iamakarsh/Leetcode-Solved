@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0067-add-binary) |
+| [0127-word-ladder](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0567-permutation-in-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0761-special-binary-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0567-permutation-in-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0463-island-perimeter) |
