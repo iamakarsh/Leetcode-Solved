@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0802-find-eventual-safe-states) |
 | [1791-find-center-of-star-graph](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0802-find-eventual-safe-states) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1254-number-of-closed-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -235,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
