@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
 | [1480-running-sum-of-1d-array](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1480-running-sum-of-1d-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1695-maximum-erasure-value](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1695-maximum-erasure-value) |
 | [1905-count-sub-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1905-count-sub-islands) |
 | [3640-trionic-array-ii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3640-trionic-array-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0713-subarray-product-less-than-k) |
+| [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 ## Database
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1254-number-of-closed-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -177,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1905-count-sub-islands) |
 ## Counting
 |  |
@@ -242,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
