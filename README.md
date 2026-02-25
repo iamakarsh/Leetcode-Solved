@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1480-running-sum-of-1d-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Simulation
 |  |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0761-special-binary-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Rolling Hash
 |  |
 | ------- |
