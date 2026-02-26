@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1695-maximum-erasure-value](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1695-maximum-erasure-value) |
 | [1905-count-sub-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1905-count-sub-islands) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2050-parallel-courses-iii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2050-parallel-courses-iii) |
 | [3640-trionic-array-ii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3640-trionic-array-ii) |
 ## Prefix Sum
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0918-maximum-sum-circular-subarray) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2050-parallel-courses-iii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2050-parallel-courses-iii) |
 | [3640-trionic-array-ii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3640-trionic-array-ii) |
 ## Sliding Window
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0802-find-eventual-safe-states) |
 | [1514-path-with-maximum-probability](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1514-path-with-maximum-probability) |
 | [1791-find-center-of-star-graph](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1791-find-center-of-star-graph) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 | [2050-parallel-courses-iii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2050-parallel-courses-iii) |
 ## Depth-First Search
