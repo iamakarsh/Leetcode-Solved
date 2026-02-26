@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [0904-fruit-into-baskets](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0713-subarray-product-less-than-k) |
+| [0778-swim-in-rising-water](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 ## Database
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0802-find-eventual-safe-states) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0994-rotting-oranges) |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
@@ -192,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
@@ -266,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
