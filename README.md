@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1480-running-sum-of-1d-array) |
 | [1514-path-with-maximum-probability](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1514-path-with-maximum-probability) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1695-maximum-erasure-value](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1695-maximum-erasure-value) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1905-count-sub-islands) |
@@ -292,5 +294,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
