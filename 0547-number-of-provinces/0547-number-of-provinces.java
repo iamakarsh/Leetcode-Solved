@@ -1,45 +1,53 @@
 class Solution {
+
+    class DSU{
+        int parent[];
+
+        DSU(int n){
+            parent = new int[n];
+            for(int i = 0; i < n; i++){
+                parent[i] = i;
+            }
+        }
+
+        public void union(int a, int b){
+            int pa = find(a);
+            int pb = find(b);
+
+            if(pa != pb){
+                parent[pb] = pa;
+            }
+        }
+
+        public int find(int x){
+            if(parent[x] == x) return x;
+            return parent[x] = find(parent[x]);
+        }
+    }
+
     public int findCircleNum(int[][] isConnected) {
+
         int n = isConnected.length;
 
-        // matrix se adj List
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            adj.add(new ArrayList<>());
-        }
+        DSU obj = new DSU(n);
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (isConnected[i][j] == 1 && i != j) {
-                    adj.get(i).add(j);
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < n; j++){
+
+                if(isConnected[i][j] == 1){
+                    obj.union(i, j);
                 }
+
             }
         }
 
-        // province count ke liye dfs
-        boolean[] vis = new boolean[n];
-        int provinces = 0;
+        int count = 0;
 
-        for (int i = 0; i < n; i++) {
-            if (!vis[i]) {
-                dfs(i, adj, vis);
-                provinces++;
-            }
+        for(int i = 0; i < n; i++){
+            if(obj.find(i) == i)
+                count++;
         }
 
-        return provinces;
+        return count;
     }
-
-    public void dfs(int node,ArrayList<ArrayList<Integer>> adj,boolean[] vis) {
-
-        vis[node] = true;
-
-        for (int i = 0; i < adj.get(node).size(); i++) {
-            int neigh = adj.get(node).get(i);
-
-            if (!vis[neigh]) {
-                dfs(neigh, adj, vis);
-            }
-        }
-    }
-}    
+}
