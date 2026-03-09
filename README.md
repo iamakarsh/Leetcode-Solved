@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1211-queries-quality-and-percentage](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1251-average-selling-price) |
+| [1321-restaurant-growth](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1321-restaurant-growth) |
 | [1693-daily-leads-and-partners](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1873-calculate-special-bonus) |
