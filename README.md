@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0802-find-eventual-safe-states) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
