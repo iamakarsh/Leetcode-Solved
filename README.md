@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0990-satisfiability-of-equality-equations](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0761-special-binary-string) |
+| [0990-satisfiability-of-equality-equations](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0990-satisfiability-of-equality-equations) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0802-find-eventual-safe-states) |
+| [0990-satisfiability-of-equality-equations](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0990-satisfiability-of-equality-equations) |
 | [1514-path-with-maximum-probability](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1514-path-with-maximum-probability) |
 | [1791-find-center-of-star-graph](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1791-find-center-of-star-graph) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
+| [0990-satisfiability-of-equality-equations](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0990-satisfiability-of-equality-equations) |
 | [1254-number-of-closed-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
