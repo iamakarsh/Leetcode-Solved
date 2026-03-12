@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0990-satisfiability-of-equality-equations) |
 | [1514-path-with-maximum-probability](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1514-path-with-maximum-probability) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1791-find-center-of-star-graph) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0990-satisfiability-of-equality-equations) |
 | [1254-number-of-closed-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1905-count-sub-islands) |
