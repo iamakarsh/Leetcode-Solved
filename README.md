@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0069-sqrtx) |
 | [0877-stone-game](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0877-stone-game) |
+| [1622-fancy-sequence](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Bit Manipulation
 |  |
@@ -365,4 +366,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1584-min-cost-to-connect-all-points) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
