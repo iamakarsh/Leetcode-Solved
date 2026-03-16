@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0130-surrounded-regions](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0130-surrounded-regions) |
+| [0162-find-peak-element](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0463-island-perimeter) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
