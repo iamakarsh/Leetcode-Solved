@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0463-island-perimeter) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0303-range-sum-query-immutable) |
 | [1622-fancy-sequence](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1622-fancy-sequence) |
 ## Segment Tree
 |  |
