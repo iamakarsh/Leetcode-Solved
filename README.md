@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0307-range-sum-query-mutable) |
 | [0410-split-array-largest-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0463-island-perimeter) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0190-reverse-bits) |
+| [0307-range-sum-query-mutable](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0307-range-sum-query-mutable) |
 | [0761-special-binary-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0761-special-binary-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -383,9 +385,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0307-range-sum-query-mutable) |
 | [1622-fancy-sequence](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1622-fancy-sequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0307-range-sum-query-mutable) |
 | [1622-fancy-sequence](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1622-fancy-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
