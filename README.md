@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-parallel-courses-iii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2050-parallel-courses-iii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3640-trionic-array-ii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3640-trionic-array-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0696-count-binary-substrings) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [3643-flip-square-submatrix-vertically](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1905-count-sub-islands) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3643-flip-square-submatrix-vertically) |
 ## Counting
 |  |
 | ------- |
