@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1584-min-cost-to-connect-all-points) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1695-maximum-erasure-value](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1695-maximum-erasure-value) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0918-maximum-sum-circular-subarray) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2050-parallel-courses-iii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2050-parallel-courses-iii) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1905-count-sub-islands) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
