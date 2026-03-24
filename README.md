@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0127-word-ladder) |
+| [0389-find-the-difference](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0721-accounts-merge) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0133-clone-graph) |
+| [0389-find-the-difference](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0721-accounts-merge) |
 | [0839-similar-string-groups](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0839-similar-string-groups) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0190-reverse-bits) |
+| [0389-find-the-difference](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0868-binary-gap) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0389-find-the-difference) |
 | [0721-accounts-merge](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
