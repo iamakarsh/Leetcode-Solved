@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0542-01-matrix) |
+| [0561-array-partition](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0721-accounts-merge) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0561-array-partition) |
 | [0721-accounts-merge](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0410-split-array-largest-sum) |
+| [0561-array-partition](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0561-array-partition) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Game Theory
@@ -439,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0509-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
