@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0733-flood-fill) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0918-maximum-sum-circular-subarray) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0561-array-partition) |
+| [0646-maximum-length-of-pair-chain](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0561-array-partition) |
+| [0646-maximum-length-of-pair-chain](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Game Theory
