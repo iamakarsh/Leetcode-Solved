@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1695-maximum-erasure-value) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1905-count-sub-islands](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1905-count-sub-islands) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2050-parallel-courses-iii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2050-parallel-courses-iii) |
 | [2906-construct-product-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2906-construct-product-matrix) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2050-parallel-courses-iii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2050-parallel-courses-iii) |
 | [3640-trionic-array-ii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3640-trionic-array-ii) |
