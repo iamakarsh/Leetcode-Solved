@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [1048-longest-string-chain](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1048-longest-string-chain) |
+| [1137-n-th-tribonacci-number](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1137-n-th-tribonacci-number) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1137-n-th-tribonacci-number) |
 | [1622-fancy-sequence](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Bit Manipulation
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1137-n-th-tribonacci-number) |
 ## Counting Sort
 |  |
 | ------- |
