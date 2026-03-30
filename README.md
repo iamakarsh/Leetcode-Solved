@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3713-longest-balanced-substring-i) |
 ## Hash Table
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1048-longest-string-chain) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1695-maximum-erasure-value](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1695-maximum-erasure-value) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2092-find-all-people-with-secret](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2092-find-all-people-with-secret) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Rolling Hash
 |  |
