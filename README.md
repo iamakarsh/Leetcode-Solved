@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0307-range-sum-query-mutable) |
+| [0403-frog-jump](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0463-island-perimeter) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0300-longest-increasing-subsequence) |
+| [0403-frog-jump](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0542-01-matrix) |
