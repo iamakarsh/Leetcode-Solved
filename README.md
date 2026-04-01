@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2050-parallel-courses-iii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2050-parallel-courses-iii) |
+| [2751-robot-collisions](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0067-add-binary) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2751-robot-collisions](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2751-robot-collisions) |
 ## Backtracking
 |  |
 | ------- |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2092-find-all-people-with-secret](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2092-find-all-people-with-secret) |
+| [2751-robot-collisions](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Rolling Hash
@@ -481,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3474-lexicographically-smallest-generated-string) |
+## Stack
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
