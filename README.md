@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3640-trionic-array-ii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3643-flip-square-submatrix-vertically) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-parallel-courses-iii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2050-parallel-courses-iii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3640-trionic-array-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sliding Window
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Database
 |  |
 | ------- |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/iamakarsh/Leetcode-Solved/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Rolling Hash
 |  |
 | ------- |
