@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [0839-similar-string-groups](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0839-similar-string-groups) |
+| [0874-walking-robot-simulation](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0904-fruit-into-baskets) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0721-accounts-merge) |
 | [0839-similar-string-groups](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0839-similar-string-groups) |
+| [0874-walking-robot-simulation](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0874-walking-robot-simulation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2751-robot-collisions](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2751-robot-collisions) |
 ## Backtracking
