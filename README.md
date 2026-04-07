@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0874-walking-robot-simulation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2069-walking-robot-simulation-ii) |
 | [2751-robot-collisions](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2751-robot-collisions) |
 ## Backtracking
 |  |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/iamakarsh/Leetcode-Solved/tree/master/0307-range-sum-query-mutable) |
 | [1622-fancy-sequence](https://github.com/iamakarsh/Leetcode-Solved/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/iamakarsh/Leetcode-Solved/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
 |  |
 | ------- |
