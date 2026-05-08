@@ -21,6 +21,5 @@ class Solution {
         root.left=mergeTrees(root1.left,root2.left);
         root.right=mergeTrees(root1.right,root2.right);
         return root;
-
     }
 }
