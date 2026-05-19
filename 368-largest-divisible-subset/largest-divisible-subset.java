@@ -7,11 +7,14 @@ class Solution {
         int[]par=new int[n];
         for(int i=0;i<n;i++) par[i]=i;
         Arrays.fill(dp,1);
+        //maxi = max subset size
         int maxi=0;
+        //itr = ending idx of ans
         int itr=0;
         for(int i=1;i<n;i++){
             for(int j=0;j<i;j++){
                 if(nums[i]%nums[j]==0){
+                    //checking better length
                     if(dp[j]+1>dp[i]){
                         dp[i]=dp[j]+1;
                         par[i]=j;
@@ -29,7 +32,5 @@ class Solution {
         }
         ans.add(nums[itr]);
         return ans;
-        
-        
     }
 }
