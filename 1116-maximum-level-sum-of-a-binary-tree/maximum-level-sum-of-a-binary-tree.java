@@ -8,14 +8,14 @@ class Solution {
        Queue<TreeNode> q= new LinkedList<>();
        q.add(root);
        q.add(null);
-       int sum=0,c1=0;
+       int sum=0,count=0;
        while(!q.isEmpty()){
           TreeNode curr= q.remove();
           if(curr==null){
-             c1++;
+             count++;
              if(sum>max){
                 max=sum;
-                c=c1;
+                c=count;
              }
              if(q.isEmpty()){
                 break;
